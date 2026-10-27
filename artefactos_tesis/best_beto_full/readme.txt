@@ -1,0 +1,1 @@
+El archivo model.safetensors de best_beto_full no pudo subirse a GitHub por exceder el tamaño máximo de un archivo. Se procede a subir en múltiples partes con la herramienta 7zip.
